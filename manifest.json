@@ -1,13 +1,13 @@
 {
 	"manifest_version": 2,
-	"name": "SteemSwitch",
+	"name": "New tab test",
 	"version": "1.0",
 
-	"description": "For links to pages on the steem blockchain, SteemSwitch will add additional links to the same page on alternative steem websites. Useful when one webnode is down, or you want links to your own prefered web client.",
+	"description": "Demonstrating an issue getting a new tab to open from a certain context.",
 
 	"icons": {
-		"48": "icons/steemswitch_48.png",
-		"96": "icons/steemswitch_96.png"
+		"48": "icons/newtab_48.png",
+		"96": "icons/newtab_96.png"
 	},
 
 	"permissions": [
@@ -15,15 +15,9 @@
 	],
 
 	"browser_action": {
-		"default_icon": "icons/steemswitch_32.png",
-		"default_title": "SteemSwitch",
+		"default_icon": "icons/newtab_32.png",
+		"default_title": "New tab test",
 		"default_popup": "popup/menu.html"
 	},
-
-	"content_scripts": [
-	{
-		"matches": ["*://*/*"],
-		"js": ["steemswitch.js"]
-	}
   ]
 }
