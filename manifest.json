@@ -6,8 +6,7 @@
 	"description": "Demonstrating an issue getting a new tab to open from a certain context.",
 
 	"icons": {
-		"48": "icons/newtab_48.png",
-		"96": "icons/newtab_96.png"
+		"48": "icons/newtab_48.png"
 	},
 
 	"permissions": [
