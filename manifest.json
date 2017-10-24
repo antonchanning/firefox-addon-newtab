@@ -18,6 +18,5 @@
 		"default_icon": "icons/newtab_32.png",
 		"default_title": "New tab test",
 		"default_popup": "popup/menu.html"
-	},
-  ]
+	}
 }
