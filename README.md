@@ -1,14 +1,4 @@
-# steemswitch
-FireFox browser add-on that allows switching between steem blockchain sites...
+# Firefox addon newtab test
+This is a test to demonstrate an issue getting a new tab to open from within the context of the currently active tab.
 
-Content/Posting
-* steemit.com
-* busy.org
-* beta.chainbb.com
-
-Blockchain analysis
-* steemd.com
-* steemdb.com 
-
-# Install
-[Install via Mozilla FireFox Add-ons Directory](https://addons.mozilla.org/en-GB/firefox/addon/steemswitch/)
+Will posted as a question on stackexchange...
